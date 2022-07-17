@@ -1,0 +1,5 @@
+name: ServerUtilsTest
+main: com.elikill58.sut.SutPlugin
+author: Elikill58
+version: 1.0
+api-version: 1.19
